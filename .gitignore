@@ -1,0 +1,6 @@
+# Config propia de cada PC (no se versiona)
+config_impresion.json
+
+# Basura de sistema / Python
+.DS_Store
+__pycache__/
